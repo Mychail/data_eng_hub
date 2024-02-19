@@ -1,0 +1,633 @@
+"territory_ID";"city";"state";"country";"region";"postalcode"
+1;"Henderson";"Kentucky";"United States";"South";42420
+2;"Los Angeles";"California";"United States";"West";90036
+3;"Fort Lauderdale";"Florida";"United States";"South";33311
+4;"Los Angeles";"California";"United States";"West";90032
+5;"Concord";"North Carolina";"United States";"South";28027
+6;"Seattle";"Washington";"United States";"West";98103
+7;"Fort Worth";"Texas";"United States";"Central";76106
+8;"Madison";"Wisconsin";"United States";"Central";53711
+9;"West Jordan";"Utah";"United States";"West";84084
+10;"San Francisco";"California";"United States";"West";94109
+11;"Fremont";"Nebraska";"United States";"Central";68025
+12;"Philadelphia";"Pennsylvania";"United States";"East";19140
+13;"Orem";"Utah";"United States";"West";84057
+14;"Los Angeles";"California";"United States";"West";90049
+15;"Houston";"Texas";"United States";"Central";77095
+16;"Richardson";"Texas";"United States";"Central";75080
+17;"Houston";"Texas";"United States";"Central";77041
+18;"Naperville";"Illinois";"United States";"Central";60540
+19;"Melbourne";"Florida";"United States";"South";32935
+20;"Eagan";"Minnesota";"United States";"Central";55122
+21;"Westland";"Michigan";"United States";"Central";48185
+22;"Dover";"Delaware";"United States";"East";19901
+23;"New Albany";"Indiana";"United States";"Central";47150
+24;"New York City";"New York";"United States";"East";10024
+25;"Troy";"New York";"United States";"East";12180
+26;"Los Angeles";"California";"United States";"West";90004
+27;"Chicago";"Illinois";"United States";"Central";60610
+28;"Gilbert";"Arizona";"United States";"West";85234
+29;"Springfield";"Virginia";"United States";"South";22153
+30;"New York City";"New York";"United States";"East";10009
+31;"Jackson";"Michigan";"United States";"Central";49201
+32;"Memphis";"Tennessee";"United States";"South";38109
+33;"Houston";"Texas";"United States";"Central";77070
+34;"Decatur";"Alabama";"United States";"South";35601
+35;"San Francisco";"California";"United States";"West";94122
+36;"Durham";"North Carolina";"United States";"South";27707
+37;"Chicago";"Illinois";"United States";"Central";60623
+38;"Columbia";"South Carolina";"United States";"South";29203
+39;"Rochester";"Minnesota";"United States";"Central";55901
+40;"Minneapolis";"Minnesota";"United States";"Central";55407
+41;"Portland";"Oregon";"United States";"West";97206
+42;"Saint Paul";"Minnesota";"United States";"Central";55106
+43;"Aurora";"Colorado";"United States";"West";80013
+44;"Charlotte";"North Carolina";"United States";"South";28205
+45;"Orland Park";"Illinois";"United States";"Central";60462
+46;"New York City";"New York";"United States";"East";10035
+47;"Urbandale";"Iowa";"United States";"Central";50322
+48;"Columbus";"Ohio";"United States";"East";43229
+49;"Bristol";"Tennessee";"United States";"South";37620
+50;"Wilmington";"Delaware";"United States";"East";19805
+51;"Bloomington";"Illinois";"United States";"Central";61701
+52;"Phoenix";"Arizona";"United States";"West";85023
+53;"Roseville";"California";"United States";"West";95661
+54;"Independence";"Missouri";"United States";"Central";64055
+55;"Pasadena";"California";"United States";"West";91104
+56;"Newark";"Ohio";"United States";"East";43055
+57;"Franklin";"Wisconsin";"United States";"Central";53132
+58;"Scottsdale";"Arizona";"United States";"West";85254
+59;"San Jose";"California";"United States";"West";95123
+60;"Seattle";"Washington";"United States";"West";98105
+61;"Seattle";"Washington";"United States";"West";98115
+62;"Edmond";"Oklahoma";"United States";"Central";73034
+63;"Los Angeles";"California";"United States";"West";90045
+64;"Philadelphia";"Pennsylvania";"United States";"East";19134
+65;"Carlsbad";"New Mexico";"United States";"West";88220
+66;"San Antonio";"Texas";"United States";"Central";78207
+67;"Houston";"Texas";"United States";"Central";77036
+68;"Decatur";"Illinois";"United States";"Central";62521
+69;"Monroe";"Louisiana";"United States";"South";71203
+70;"Fairfield";"Connecticut";"United States";"East";6824
+71;"Grand Prairie";"Texas";"United States";"Central";75051
+72;"Redlands";"California";"United States";"West";92374
+73;"Hamilton";"Ohio";"United States";"East";45011
+74;"Westfield";"New Jersey";"United States";"East";7090
+75;"Philadelphia";"Pennsylvania";"United States";"East";19120
+76;"Akron";"Ohio";"United States";"East";44312
+77;"Denver";"Colorado";"United States";"West";80219
+78;"Dallas";"Texas";"United States";"Central";75220
+79;"Franklin";"Tennessee";"United States";"South";37064
+80;"Whittier";"California";"United States";"West";90604
+81;"Saginaw";"Michigan";"United States";"Central";48601
+82;"Medina";"Ohio";"United States";"East";44256
+83;"Dublin";"Ohio";"United States";"East";43017
+84;"Detroit";"Michigan";"United States";"Central";48227
+85;"Columbia";"Tennessee";"United States";"South";38401
+86;"Tampa";"Florida";"United States";"South";33614
+87;"Santa Clara";"California";"United States";"West";95051
+88;"Lakeville";"Minnesota";"United States";"Central";55044
+89;"San Diego";"California";"United States";"West";92037
+90;"Pasadena";"Texas";"United States";"Central";77506
+91;"Brentwood";"California";"United States";"West";94513
+92;"Chapel Hill";"North Carolina";"United States";"South";27514
+93;"Morristown";"New Jersey";"United States";"East";7960
+94;"Cincinnati";"Ohio";"United States";"East";45231
+95;"San Francisco";"California";"United States";"West";94110
+96;"Inglewood";"California";"United States";"West";90301
+97;"Tamarac";"Florida";"United States";"South";33319
+98;"Colorado Springs";"Colorado";"United States";"West";80906
+99;"Belleville";"New Jersey";"United States";"East";7109
+100;"Taylor";"Michigan";"United States";"Central";48180
+101;"Lakewood";"New Jersey";"United States";"East";8701
+102;"Arlington";"Virginia";"United States";"South";22204
+103;"Arvada";"Colorado";"United States";"West";80004
+104;"Hackensack";"New Jersey";"United States";"East";7601
+105;"Saint Petersburg";"Florida";"United States";"South";33710
+106;"Philadelphia";"Pennsylvania";"United States";"East";19143
+107;"Long Beach";"California";"United States";"West";90805
+108;"Hesperia";"California";"United States";"West";92345
+109;"Murfreesboro";"Tennessee";"United States";"South";37130
+110;"Layton";"Utah";"United States";"West";84041
+111;"Austin";"Texas";"United States";"Central";78745
+112;"Lowell";"Massachusetts";"United States";"East";1852
+113;"Columbus";"Georgia";"United States";"South";31907
+114;"Manchester";"Connecticut";"United States";"East";6040
+115;"Harlingen";"Texas";"United States";"Central";78550
+116;"Tucson";"Arizona";"United States";"West";85705
+117;"Quincy";"Illinois";"United States";"Central";62301
+118;"Franklin";"Massachusetts";"United States";"East";2038
+119;"Pembroke Pines";"Florida";"United States";"South";33024
+120;"Des Moines";"Washington";"United States";"West";98198
+121;"Peoria";"Illinois";"United States";"Central";61604
+122;"Las Vegas";"Nevada";"United States";"West";89115
+123;"Warwick";"Rhode Island";"United States";"East";2886
+124;"Miami";"Florida";"United States";"South";33180
+125;"Wilmington";"North Carolina";"United States";"South";28403
+126;"Huntington Beach";"California";"United States";"West";92646
+127;"Richmond";"Kentucky";"United States";"South";40475
+128;"Louisville";"Colorado";"United States";"West";80027
+129;"Lawrence";"Massachusetts";"United States";"East";1841
+130;"Jackson";"Mississippi";"United States";"South";39212
+131;"Canton";"Michigan";"United States";"Central";48187
+132;"New Rochelle";"New York";"United States";"East";10801
+133;"Gastonia";"North Carolina";"United States";"South";28052
+134;"Jacksonville";"Florida";"United States";"South";32216
+135;"Columbus";"Indiana";"United States";"Central";47201
+136;"Auburn";"New York";"United States";"East";13021
+137;"Norman";"Oklahoma";"United States";"Central";73071
+138;"Concord";"California";"United States";"West";94521
+139;"Park Ridge";"Illinois";"United States";"Central";60068
+140;"Amarillo";"Texas";"United States";"Central";79109
+141;"Lindenhurst";"New York";"United States";"East";11757
+142;"Los Angeles";"California";"United States";"West";90008
+143;"San Diego";"California";"United States";"West";92024
+144;"Huntsville";"Texas";"United States";"Central";77340
+145;"Rochester";"New York";"United States";"East";14609
+146;"Fayetteville";"Arkansas";"United States";"South";72701
+147;"Costa Mesa";"California";"United States";"West";92627
+148;"Parker";"Colorado";"United States";"West";80134
+149;"Atlanta";"Georgia";"United States";"South";30318
+150;"Gladstone";"Missouri";"United States";"Central";64118
+151;"Great Falls";"Montana";"United States";"West";59405
+152;"Detroit";"Michigan";"United States";"Central";48234
+153;"Lakeland";"Florida";"United States";"South";33801
+154;"Montgomery";"Alabama";"United States";"South";36116
+155;"Mesa";"Arizona";"United States";"West";85204
+156;"Chicago";"Illinois";"United States";"Central";60653
+157;"Green Bay";"Wisconsin";"United States";"Central";54302
+158;"Springfield";"Ohio";"United States";"East";45503
+159;"Anaheim";"California";"United States";"West";92804
+160;"Marysville";"Washington";"United States";"West";98270
+161;"Salem";"Oregon";"United States";"West";97301
+162;"Laredo";"Texas";"United States";"Central";78041
+163;"Dallas";"Texas";"United States";"Central";75217
+164;"Grove City";"Ohio";"United States";"East";43123
+165;"New York City";"New York";"United States";"East";10011
+166;"Dearborn";"Michigan";"United States";"Central";48126
+167;"Warner Robins";"Georgia";"United States";"South";31088
+168;"Vallejo";"California";"United States";"West";94591
+169;"Mission Viejo";"California";"United States";"West";92691
+170;"Rochester Hills";"Michigan";"United States";"Central";48307
+171;"Plainfield";"New Jersey";"United States";"East";7060
+172;"Sierra Vista";"Arizona";"United States";"West";85635
+173;"Vancouver";"Washington";"United States";"West";98661
+174;"Aurora";"Illinois";"United States";"Central";60505
+175;"Arlington";"Texas";"United States";"Central";76017
+176;"Louisville";"Kentucky";"United States";"South";40214
+177;"Dallas";"Texas";"United States";"Central";75081
+178;"Cleveland";"Ohio";"United States";"East";44105
+179;"Tyler";"Texas";"United States";"Central";75701
+180;"Burlington";"North Carolina";"United States";"South";27217
+181;"Waynesboro";"Virginia";"United States";"South";22980
+182;"Chester";"Pennsylvania";"United States";"East";19013
+183;"Cary";"North Carolina";"United States";"South";27511
+184;"Palm Coast";"Florida";"United States";"South";32137
+185;"Mount Vernon";"New York";"United States";"East";10550
+186;"Detroit";"Michigan";"United States";"Central";48205
+187;"Hialeah";"Florida";"United States";"South";33012
+188;"Oceanside";"New York";"United States";"East";11572
+189;"San Diego";"California";"United States";"West";92105
+190;"Evanston";"Illinois";"United States";"Central";60201
+191;"Trenton";"Michigan";"United States";"Central";48183
+192;"Cottage Grove";"Minnesota";"United States";"Central";55016
+193;"Bossier City";"Louisiana";"United States";"South";71111
+194;"Des Moines";"Iowa";"United States";"Central";50315
+195;"Lancaster";"California";"United States";"West";93534
+196;"Richmond";"Virginia";"United States";"South";23223
+197;"Asheville";"North Carolina";"United States";"South";28806
+198;"Lake Elsinore";"California";"United States";"West";92530
+199;"Omaha";"Nebraska";"United States";"Central";68104
+200;"Edmonds";"Washington";"United States";"West";98026
+201;"Santa Ana";"California";"United States";"West";92704
+202;"Milwaukee";"Wisconsin";"United States";"Central";53209
+203;"Florence";"Kentucky";"United States";"South";41042
+204;"Lorain";"Ohio";"United States";"East";44052
+205;"Linden";"New Jersey";"United States";"East";7036
+206;"Salinas";"California";"United States";"West";93905
+207;"New Brunswick";"New Jersey";"United States";"East";8901
+208;"Lancaster";"Pennsylvania";"United States";"East";17602
+209;"Concord";"New Hampshire";"United States";"East";3301
+210;"Columbia";"Maryland";"United States";"East";21044
+211;"Garland";"Texas";"United States";"Central";75043
+212;"Norwich";"Connecticut";"United States";"East";6360
+213;"Alexandria";"Virginia";"United States";"South";22304
+214;"Toledo";"Ohio";"United States";"East";43615
+215;"Farmington";"New Mexico";"United States";"West";87401
+216;"Riverside";"California";"United States";"West";92503
+217;"Torrance";"California";"United States";"West";90503
+218;"Round Rock";"Texas";"United States";"Central";78664
+219;"Oceanside";"California";"United States";"West";92054
+220;"Boca Raton";"Florida";"United States";"South";33433
+221;"Virginia Beach";"Virginia";"United States";"South";23464
+222;"Murrieta";"California";"United States";"West";92563
+223;"Jacksonville";"North Carolina";"United States";"South";28540
+224;"Burlington";"Iowa";"United States";"Central";52601
+225;"Olympia";"Washington";"United States";"West";98502
+226;"Washington";"District of Columbia";"United States";"East";20016
+227;"Jefferson City";"Missouri";"United States";"Central";65109
+228;"Saint Peters";"Missouri";"United States";"Central";63376
+229;"Rockford";"Illinois";"United States";"Central";61107
+230;"Miami";"Florida";"United States";"South";33142
+231;"Brownsville";"Texas";"United States";"Central";78521
+232;"Yonkers";"New York";"United States";"East";10701
+233;"Oakland";"California";"United States";"West";94601
+234;"Monroe";"North Carolina";"United States";"South";28110
+235;"Clinton";"Maryland";"United States";"East";20735
+236;"Encinitas";"California";"United States";"West";92024
+237;"Roswell";"Georgia";"United States";"South";30076
+238;"Jonesboro";"Arkansas";"United States";"South";72401
+239;"Richmond";"Indiana";"United States";"Central";47374
+240;"Antioch";"California";"United States";"West";94509
+241;"Homestead";"Florida";"United States";"South";33030
+242;"La Porte";"Indiana";"United States";"Central";46350
+243;"Lansing";"Michigan";"United States";"Central";48911
+244;"Cuyahoga Falls";"Ohio";"United States";"East";44221
+245;"Reno";"Nevada";"United States";"West";89502
+246;"Harrisonburg";"Virginia";"United States";"South";22801
+247;"Escondido";"California";"United States";"West";92025
+248;"Royal Oak";"Michigan";"United States";"Central";48073
+249;"Rockville";"Maryland";"United States";"East";20852
+250;"Coral Springs";"Florida";"United States";"South";33065
+251;"Buffalo";"New York";"United States";"East";14215
+252;"Boynton Beach";"Florida";"United States";"South";33437
+253;"Gulfport";"Mississippi";"United States";"South";39503
+254;"Fresno";"California";"United States";"West";93727
+255;"Greenville";"North Carolina";"United States";"South";27834
+256;"Long Beach";"New York";"United States";"East";11561
+257;"Florence";"Alabama";"United States";"South";35630
+258;"Macon";"Georgia";"United States";"South";31204
+259;"Cedar Rapids";"Iowa";"United States";"Central";52402
+260;"Providence";"Rhode Island";"United States";"East";2908
+261;"Pueblo";"Colorado";"United States";"West";81001
+262;"Fairfield";"California";"United States";"West";94533
+263;"Deltona";"Florida";"United States";"South";32725
+264;"Murray";"Kentucky";"United States";"South";42071
+265;"Middletown";"Connecticut";"United States";"East";6457
+266;"Freeport";"New York";"United States";"East";11520
+267;"Pico Rivera";"California";"United States";"West";90660
+268;"Provo";"Utah";"United States";"West";84604
+269;"Pleasant Grove";"Utah";"United States";"West";84062
+270;"Smyrna";"Georgia";"United States";"South";30080
+271;"Salem";"Virginia";"United States";"South";24153
+272;"Parma";"Ohio";"United States";"East";44134
+273;"Mobile";"Alabama";"United States";"South";36608
+274;"New Bedford";"Massachusetts";"United States";"East";2740
+275;"Irving";"Texas";"United States";"Central";75061
+276;"Vineland";"New Jersey";"United States";"East";8360
+277;"Glendale";"Arizona";"United States";"West";85301
+278;"Niagara Falls";"New York";"United States";"East";14304
+279;"Thomasville";"North Carolina";"United States";"South";27360
+280;"Westminster";"California";"United States";"West";92683
+281;"Jackson";"Tennessee";"United States";"South";38301
+282;"Coppell";"Texas";"United States";"Central";75019
+283;"Pomona";"California";"United States";"West";91767
+284;"North Las Vegas";"Nevada";"United States";"West";89031
+285;"Allentown";"Pennsylvania";"United States";"East";18103
+286;"Newark";"Delaware";"United States";"East";19711
+287;"Tempe";"Arizona";"United States";"West";85281
+288;"Laguna Niguel";"California";"United States";"West";92677
+289;"Bridgeton";"New Jersey";"United States";"East";8302
+290;"Everett";"Massachusetts";"United States";"East";2149
+291;"Watertown";"New York";"United States";"East";13601
+292;"Appleton";"Wisconsin";"United States";"Central";54915
+293;"Bellevue";"Washington";"United States";"West";98006
+294;"Allen";"Texas";"United States";"Central";75002
+295;"El Paso";"Texas";"United States";"Central";79907
+296;"Grapevine";"Texas";"United States";"Central";76051
+297;"Carrollton";"Texas";"United States";"Central";75007
+298;"Smyrna";"Tennessee";"United States";"South";37167
+299;"Kent";"Washington";"United States";"West";98031
+300;"Lafayette";"Louisiana";"United States";"South";70506
+301;"Tigard";"Oregon";"United States";"West";97224
+302;"Skokie";"Illinois";"United States";"Central";60076
+303;"Plano";"Texas";"United States";"Central";75023
+304;"Suffolk";"Virginia";"United States";"South";23434
+305;"Indianapolis";"Indiana";"United States";"Central";46203
+306;"Bayonne";"New Jersey";"United States";"East";7002
+307;"Fayetteville";"North Carolina";"United States";"South";28314
+308;"Greensboro";"North Carolina";"United States";"South";27405
+309;"Baltimore";"Maryland";"United States";"East";21215
+310;"Kenosha";"Wisconsin";"United States";"Central";53142
+311;"Olathe";"Kansas";"United States";"Central";66062
+312;"Auburn";"Washington";"United States";"West";98002
+313;"Tulsa";"Oklahoma";"United States";"Central";74133
+314;"Redmond";"Oregon";"United States";"West";97756
+315;"Raleigh";"North Carolina";"United States";"South";27604
+316;"Muskogee";"Oklahoma";"United States";"Central";74403
+317;"Meriden";"Connecticut";"United States";"East";6450
+318;"Bowling Green";"Kentucky";"United States";"South";42104
+319;"South Bend";"Indiana";"United States";"Central";46614
+320;"Bristol";"Connecticut";"United States";"East";6010
+321;"Henderson";"Nevada";"United States";"West";89015
+322;"Spokane";"Washington";"United States";"West";99207
+323;"Keller";"Texas";"United States";"Central";76248
+324;"Fairfield";"Ohio";"United States";"East";45014
+325;"Port Orange";"Florida";"United States";"South";32127
+326;"Medford";"Oregon";"United States";"West";97504
+327;"Charlottesville";"Virginia";"United States";"South";22901
+328;"Missoula";"Montana";"United States";"West";59801
+329;"Miami";"Florida";"United States";"South";33178
+330;"Florence";"South Carolina";"United States";"South";29501
+331;"Springfield";"Oregon";"United States";"West";97477
+332;"Apopka";"Florida";"United States";"South";32712
+333;"Reading";"Pennsylvania";"United States";"East";19601
+334;"Broomfield";"Colorado";"United States";"West";80020
+335;"Springfield";"Missouri";"United States";"Central";65807
+336;"Paterson";"New Jersey";"United States";"East";7501
+337;"Oklahoma City";"Oklahoma";"United States";"Central";73120
+338;"Chesapeake";"Virginia";"United States";"South";23320
+339;"Lubbock";"Texas";"United States";"Central";79424
+340;"Columbia";"Missouri";"United States";"Central";65203
+341;"Johnson City";"Tennessee";"United States";"South";37604
+342;"Auburn";"Alabama";"United States";"South";36830
+343;"San Bernardino";"California";"United States";"West";92404
+344;"Leominster";"Massachusetts";"United States";"East";1453
+345;"Bozeman";"Montana";"United States";"West";59715
+346;"Peoria";"Arizona";"United States";"West";85345
+347;"Lakewood";"Ohio";"United States";"East";44107
+348;"Perth Amboy";"New Jersey";"United States";"East";8861
+349;"Ontario";"California";"United States";"West";91761
+350;"Rancho Cucamonga";"California";"United States";"West";91730
+351;"Moorhead";"Minnesota";"United States";"Central";56560
+352;"Mesquite";"Texas";"United States";"Central";75150
+353;"Stockton";"California";"United States";"West";95207
+354;"Ormond Beach";"Florida";"United States";"South";32174
+355;"Sunnyvale";"California";"United States";"West";94086
+356;"Dover";"New Hampshire";"United States";"East";3820
+357;"York";"Pennsylvania";"United States";"East";17403
+358;"College Station";"Texas";"United States";"Central";77840
+359;"Saint Louis";"Missouri";"United States";"Central";63116
+360;"Quincy";"Massachusetts";"United States";"East";2169
+361;"Manteca";"California";"United States";"West";95336
+362;"Kent";"Ohio";"United States";"East";44240
+363;"San Angelo";"Texas";"United States";"Central";76903
+364;"Salt Lake City";"Utah";"United States";"West";84106
+365;"Huntsville";"Alabama";"United States";"South";35810
+366;"Knoxville";"Tennessee";"United States";"South";37918
+367;"Little Rock";"Arkansas";"United States";"South";72209
+368;"Lincoln Park";"Michigan";"United States";"Central";48146
+369;"Marion";"Ohio";"United States";"East";43302
+370;"Littleton";"Colorado";"United States";"West";80122
+371;"Burlington";"Vermont";"United States";"East";5408
+372;"Bangor";"Maine";"United States";"East";4401
+373;"Southaven";"Mississippi";"United States";"South";38671
+374;"New Castle";"Indiana";"United States";"Central";47362
+375;"Midland";"Michigan";"United States";"Central";48640
+376;"Sioux Falls";"South Dakota";"United States";"Central";57103
+377;"Fort Collins";"Colorado";"United States";"West";80525
+378;"Lafayette";"Indiana";"United States";"Central";47905
+379;"Clarksville";"Tennessee";"United States";"South";37042
+380;"Sacramento";"California";"United States";"West";95823
+381;"Thousand Oaks";"California";"United States";"West";91360
+382;"Malden";"Massachusetts";"United States";"East";2148
+383;"Holyoke";"Massachusetts";"United States";"East";1040
+384;"Albuquerque";"New Mexico";"United States";"West";87105
+385;"Sparks";"Nevada";"United States";"West";89431
+386;"Coachella";"California";"United States";"West";92236
+387;"Elmhurst";"Illinois";"United States";"Central";60126
+388;"Passaic";"New Jersey";"United States";"East";7055
+389;"North Charleston";"South Carolina";"United States";"South";29406
+390;"Newport News";"Virginia";"United States";"South";23602
+391;"Jamestown";"New York";"United States";"East";14701
+392;"Mishawaka";"Indiana";"United States";"Central";46544
+393;"Bowling Green";"Ohio";"United States";"East";43402
+394;"La Quinta";"California";"United States";"West";92253
+395;"Tallahassee";"Florida";"United States";"South";32303
+396;"Nashville";"Tennessee";"United States";"South";37211
+397;"Bellingham";"Washington";"United States";"West";98226
+398;"Woodstock";"Illinois";"United States";"Central";60098
+399;"Haltom City";"Texas";"United States";"Central";76117
+400;"Wheeling";"Illinois";"United States";"Central";60090
+401;"Summerville";"South Carolina";"United States";"South";29483
+402;"Hot Springs";"Arkansas";"United States";"South";71901
+403;"Englewood";"Colorado";"United States";"West";80112
+404;"Lancaster";"Ohio";"United States";"East";43130
+405;"Las Cruces";"New Mexico";"United States";"West";88001
+406;"Hoover";"Alabama";"United States";"South";35244
+407;"Frisco";"Texas";"United States";"Central";75034
+408;"Vacaville";"California";"United States";"West";95687
+409;"Murray";"Utah";"United States";"West";84107
+410;"Waukesha";"Wisconsin";"United States";"Central";53186
+411;"Bakersfield";"California";"United States";"West";93309
+412;"Pompano Beach";"Florida";"United States";"South";33068
+413;"Troy";"Ohio";"United States";"East";45373
+414;"Corpus Christi";"Texas";"United States";"Central";78415
+415;"Redondo Beach";"California";"United States";"West";90278
+416;"Orlando";"Florida";"United States";"South";32839
+417;"Orange";"New Jersey";"United States";"East";7050
+418;"Lake Charles";"Louisiana";"United States";"South";70601
+419;"Highland Park";"Illinois";"United States";"Central";60035
+420;"Hempstead";"New York";"United States";"East";11550
+421;"Noblesville";"Indiana";"United States";"Central";46060
+422;"Apple Valley";"Minnesota";"United States";"Central";55124
+423;"Mount Pleasant";"South Carolina";"United States";"South";29464
+424;"Sterling Heights";"Michigan";"United States";"Central";48310
+425;"Eau Claire";"Wisconsin";"United States";"Central";54703
+426;"Pharr";"Texas";"United States";"Central";78577
+427;"Billings";"Montana";"United States";"West";59102
+428;"Gresham";"Oregon";"United States";"West";97030
+429;"Chattanooga";"Tennessee";"United States";"South";37421
+430;"Meridian";"Idaho";"United States";"West";83642
+431;"Apple Valley";"California";"United States";"West";92307
+432;"Bolingbrook";"Illinois";"United States";"Central";60440
+433;"Maple Grove";"Minnesota";"United States";"Central";55369
+434;"Woodland";"California";"United States";"West";95695
+435;"Missouri City";"Texas";"United States";"Central";77489
+436;"Pearland";"Texas";"United States";"Central";77581
+437;"San Mateo";"California";"United States";"West";94403
+438;"Grand Rapids";"Michigan";"United States";"Central";49505
+439;"Visalia";"California";"United States";"West";93277
+440;"Overland Park";"Kansas";"United States";"Central";66212
+441;"Temecula";"California";"United States";"West";92592
+442;"Yucaipa";"California";"United States";"West";92399
+443;"Revere";"Massachusetts";"United States";"East";2151
+444;"Conroe";"Texas";"United States";"Central";77301
+445;"Tinley Park";"Illinois";"United States";"Central";60477
+446;"Dubuque";"Iowa";"United States";"Central";52001
+447;"Dearborn Heights";"Michigan";"United States";"Central";48127
+448;"Santa Fe";"New Mexico";"United States";"West";87505
+449;"Hickory";"North Carolina";"United States";"South";28601
+450;"Carol Stream";"Illinois";"United States";"Central";60188
+451;"Saint Cloud";"Minnesota";"United States";"Central";56301
+452;"North Miami";"Florida";"United States";"South";33161
+453;"Lawrence";"Indiana";"United States";"Central";46226
+454;"Plantation";"Florida";"United States";"South";33317
+455;"Port Saint Lucie";"Florida";"United States";"South";34952
+456;"Rock Hill";"South Carolina";"United States";"South";29730
+457;"Odessa";"Texas";"United States";"Central";79762
+458;"West Allis";"Wisconsin";"United States";"Central";53214
+459;"Chula Vista";"California";"United States";"West";91911
+460;"Manhattan";"Kansas";"United States";"Central";66502
+461;"Altoona";"Pennsylvania";"United States";"East";16602
+462;"Thornton";"Colorado";"United States";"West";80229
+463;"Champaign";"Illinois";"United States";"Central";61821
+464;"Bloomington";"Indiana";"United States";"Central";47401
+465;"Texarkana";"Arkansas";"United States";"South";71854
+466;"Edinburg";"Texas";"United States";"Central";78539
+467;"Baytown";"Texas";"United States";"Central";77520
+468;"Greenwood";"Indiana";"United States";"Central";46142
+469;"Lakewood";"California";"United States";"West";90712
+470;"Woonsocket";"Rhode Island";"United States";"East";2895
+471;"Superior";"Wisconsin";"United States";"Central";54880
+472;"Bedford";"Texas";"United States";"Central";76021
+473;"Covington";"Washington";"United States";"West";98042
+474;"Broken Arrow";"Oklahoma";"United States";"Central";74012
+475;"Miramar";"Florida";"United States";"South";33023
+476;"Hollywood";"Florida";"United States";"South";33021
+477;"Deer Park";"Texas";"United States";"Central";77536
+478;"Wichita";"Kansas";"United States";"Central";67212
+479;"Mcallen";"Texas";"United States";"Central";78501
+480;"Iowa City";"Iowa";"United States";"Central";52240
+481;"Boise";"Idaho";"United States";"West";83704
+482;"Cranston";"Rhode Island";"United States";"East";2920
+483;"Freeport";"Illinois";"United States";"Central";61032
+484;"Port Arthur";"Texas";"United States";"Central";77642
+485;"Citrus Heights";"California";"United States";"West";95610
+486;"The Colony";"Texas";"United States";"Central";75056
+487;"Redmond";"Washington";"United States";"West";98052
+488;"Daytona Beach";"Florida";"United States";"South";32114
+489;"Bullhead City";"Arizona";"United States";"West";86442
+490;"Portage";"Indiana";"United States";"Central";46368
+491;"Fargo";"North Dakota";"United States";"Central";58103
+492;"Elkhart";"Indiana";"United States";"Central";46514
+493;"San Gabriel";"California";"United States";"West";91776
+494;"Margate";"Florida";"United States";"South";33063
+495;"Sandy Springs";"Georgia";"United States";"South";30328
+496;"Mentor";"Ohio";"United States";"East";44060
+497;"Lawton";"Oklahoma";"United States";"Central";73505
+498;"Hampton";"Virginia";"United States";"South";23666
+499;"Rome";"New York";"United States";"East";13440
+500;"La Crosse";"Wisconsin";"United States";"Central";54601
+501;"Lewiston";"Idaho";"United States";"West";83501
+502;"Hattiesburg";"Mississippi";"United States";"South";39401
+503;"Danville";"California";"United States";"West";94526
+504;"Mount Pleasant";"Michigan";"United States";"Central";48858
+505;"Logan";"Utah";"United States";"West";84321
+506;"Waterbury";"Connecticut";"United States";"East";6708
+507;"Athens";"Georgia";"United States";"South";30605
+508;"Lewiston";"Maine";"United States";"East";4240
+509;"Danville";"Illinois";"United States";"Central";61832
+510;"Avondale";"Arizona";"United States";"West";85323
+511;"Marietta";"Georgia";"United States";"South";30062
+512;"Yuma";"Arizona";"United States";"West";85364
+513;"Wausau";"Wisconsin";"United States";"Central";54401
+514;"Pasco";"Washington";"United States";"West";99301
+515;"Oak Park";"Illinois";"United States";"Central";60302
+516;"Pensacola";"Florida";"United States";"South";32503
+517;"League City";"Texas";"United States";"Central";77573
+518;"Gaithersburg";"Maryland";"United States";"East";20877
+519;"Lehi";"Utah";"United States";"West";84043
+520;"Tuscaloosa";"Alabama";"United States";"South";35401
+521;"Moreno Valley";"California";"United States";"West";92553
+522;"Georgetown";"Kentucky";"United States";"South";40324
+523;"Loveland";"Colorado";"United States";"West";80538
+524;"Chandler";"Arizona";"United States";"West";85224
+525;"Helena";"Montana";"United States";"West";59601
+526;"Kirkwood";"Missouri";"United States";"Central";63122
+527;"Waco";"Texas";"United States";"Central";76706
+528;"Roseville";"Michigan";"United States";"Central";48066
+529;"Frankfort";"Illinois";"United States";"Central";60423
+530;"Bethlehem";"Pennsylvania";"United States";"East";18018
+531;"Roseville";"Minnesota";"United States";"Central";55113
+532;"Grand Island";"Nebraska";"United States";"Central";68801
+533;"Woodbury";"Minnesota";"United States";"Central";55125
+534;"Oak Park";"Michigan";"United States";"Central";48237
+535;"Rogers";"Arkansas";"United States";"South";72756
+536;"Clovis";"New Mexico";"United States";"West";88101
+537;"Jupiter";"Florida";"United States";"South";33458
+538;"Santa Barbara";"California";"United States";"West";93101
+539;"Cedar Hill";"Texas";"United States";"Central";75104
+540;"Norfolk";"Nebraska";"United States";"Central";68701
+541;"Draper";"Utah";"United States";"West";84020
+542;"Ann Arbor";"Michigan";"United States";"Central";48104
+543;"La Mesa";"California";"United States";"West";91941
+544;"Pocatello";"Idaho";"United States";"West";83201
+545;"Holland";"Michigan";"United States";"Central";49423
+546;"Milford";"Connecticut";"United States";"East";6460
+547;"Buffalo Grove";"Illinois";"United States";"Central";60089
+548;"Lake Forest";"California";"United States";"West";92630
+549;"Redding";"California";"United States";"West";96003
+550;"Chico";"California";"United States";"West";95928
+551;"Utica";"New York";"United States";"East";13501
+552;"Conway";"Arkansas";"United States";"South";72032
+553;"Cheyenne";"Wyoming";"United States";"West";82001
+554;"Owensboro";"Kentucky";"United States";"South";42301
+555;"Caldwell";"Idaho";"United States";"West";83605
+556;"Kenner";"Louisiana";"United States";"South";70065
+557;"Nashua";"New Hampshire";"United States";"East";3060
+558;"Bartlett";"Tennessee";"United States";"South";38134
+559;"Redwood City";"California";"United States";"West";94061
+560;"Lebanon";"Tennessee";"United States";"South";37087
+561;"Santa Maria";"California";"United States";"West";93454
+562;"Des Plaines";"Illinois";"United States";"Central";60016
+563;"Longview";"Washington";"United States";"West";98632
+564;"Hendersonville";"Tennessee";"United States";"South";37075
+565;"Waterloo";"Iowa";"United States";"Central";50701
+566;"Cambridge";"Massachusetts";"United States";"East";2138
+567;"Palatine";"Illinois";"United States";"Central";60067
+568;"Beverly";"Massachusetts";"United States";"East";1915
+569;"Eugene";"Oregon";"United States";"West";97405
+570;"Oxnard";"California";"United States";"West";93030
+571;"Renton";"Washington";"United States";"West";98059
+572;"Glenview";"Illinois";"United States";"Central";60025
+573;"Delray Beach";"Florida";"United States";"South";33445
+574;"Commerce City";"Colorado";"United States";"West";80022
+575;"Texas City";"Texas";"United States";"Central";77590
+576;"Wilson";"North Carolina";"United States";"South";27893
+577;"Rio Rancho";"New Mexico";"United States";"West";87124
+578;"Goldsboro";"North Carolina";"United States";"South";27534
+579;"Everett";"Washington";"United States";"West";98208
+580;"Montebello";"California";"United States";"West";90640
+581;"El Cajon";"California";"United States";"West";92020
+582;"Beaumont";"Texas";"United States";"Central";77705
+583;"West Palm Beach";"Florida";"United States";"South";33407
+584;"Abilene";"Texas";"United States";"Central";79605
+585;"Normal";"Illinois";"United States";"Central";61761
+586;"Saint Charles";"Missouri";"United States";"Central";63301
+587;"Saint Charles";"Illinois";"United States";"Central";60174
+588;"Camarillo";"California";"United States";"West";93010
+589;"Hillsboro";"Oregon";"United States";"West";97123
+590;"Burbank";"California";"United States";"West";91505
+591;"Modesto";"California";"United States";"West";95351
+592;"Garden City";"Kansas";"United States";"Central";67846
+593;"Atlantic City";"New Jersey";"United States";"East";8401
+594;"Longmont";"Colorado";"United States";"West";80501
+595;"Davis";"California";"United States";"West";95616
+596;"Wheeling";"West Virginia";"United States";"East";26003
+597;"Morgan Hill";"California";"United States";"West";95037
+598;"Clifton";"New Jersey";"United States";"East";7011
+599;"Sheboygan";"Wisconsin";"United States";"Central";53081
+600;"East Point";"Georgia";"United States";"South";30344
+601;"Rapid City";"South Dakota";"United States";"Central";57701
+602;"Andover";"Massachusetts";"United States";"East";1810
+603;"Kissimmee";"Florida";"United States";"South";34741
+604;"Shelton";"Connecticut";"United States";"East";6484
+605;"Danbury";"Connecticut";"United States";"East";6810
+606;"Marion";"Iowa";"United States";"Central";52302
+607;"Sanford";"Florida";"United States";"South";32771
+608;"San Marcos";"Texas";"United States";"Central";78666
+609;"Greeley";"Colorado";"United States";"West";80634
+610;"Mansfield";"Texas";"United States";"Central";76063
+611;"Elyria";"Ohio";"United States";"East";44035
+612;"Twin Falls";"Idaho";"United States";"West";83301
+613;"Coral Gables";"Florida";"United States";"South";33134
+614;"Romeoville";"Illinois";"United States";"Central";60441
+615;"Marlborough";"Massachusetts";"United States";"East";1752
+616;"Laurel";"Maryland";"United States";"East";20707
+617;"Bryan";"Texas";"United States";"Central";77803
+618;"Pine Bluff";"Arkansas";"United States";"South";71603
+619;"Aberdeen";"South Dakota";"United States";"Central";57401
+620;"Hagerstown";"Maryland";"United States";"East";21740
+621;"East Orange";"New Jersey";"United States";"East";7017
+622;"Arlington Heights";"Illinois";"United States";"Central";60004
+623;"Oswego";"Illinois";"United States";"Central";60543
+624;"Coon Rapids";"Minnesota";"United States";"Central";55433
+625;"San Clemente";"California";"United States";"West";92672
+626;"Dublin";"California";"United States";"West";94568
+627;"San Luis Obispo";"California";"United States";"West";93405
+628;"Springdale";"Arkansas";"United States";"South";72762
+629;"Lodi";"California";"United States";"West";95240
+630;"La Porte";"Texas";"United States";"Central";77571
+631;"Mason";"Ohio";"United States";"East";45040
+632;"Woodstock";"Georgia";"United States";"South";30188
